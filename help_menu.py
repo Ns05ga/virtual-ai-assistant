@@ -1,0 +1,16 @@
+def print_help():
+
+    print("\nAssistant: Here is what I can do:")
+    print("  - time       : Show the current time")
+    print("  - date       : Show the current date")
+    print("  - calculate  : Perform basic arithmetic")
+    print("  - quote      : Display a motivational quote")
+    print("  - joke       : Tell a random joke")
+    print("  - fact       : Display a random fact")
+    print("  - game       : Play the number guessing game")
+    print("  - recommend  : Recommend an activity")
+    print("  - activity   : Recommend an activity")
+    print("  - perceptron : Run the perceptron demonstration")
+    print("  - help       : Display this help menu")
+    print("  - exit       : Quit the assistant")
+    print()
